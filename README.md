@@ -52,3 +52,13 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 * genera
 ### Dashboard
 
 ![navigation](assets/img/sketch.jpg)
+
+* La estructura está definida muy parecida a la estructura utilizada en LMS Laboratoria, para que el usuario sienta que está dentro de un producto de Laboratoria rápidamente.
+
+* Al lado izquierdo tenemos tenemos el menú principal. Es permanente. Primero está el logo de Laboratoria. 
+Cuando entrevistamos a nuestra Jedi y Training Manager Ale, nos dijo que le gustaría ver su foto, sentirse identificada. Por eso, coloqué una imagen, su nickname y su cargo. 
+Luego, viene la ubicación en la que ella se encuentra, según esa información se carga la ventana principal del Dashboard.
+Después vienen las opciones "Dashboard", "Sede" y "Checkup". Como mencionaba antes, la opción "Dashboard" se carga por default cuando recién ingresamos y su contenido es definido por la ubicación del usuario. Ale, también mencionó que le gustaría poder acceder a la información de otras sedes, para eso existe la opción "Sede". 
+En el reto se menciona que colocaramos una opción de "comparación" en la que se pudiera filtrar y comparar información. Por eso aparece la opción "Checkup", con ese nombre porque "Comparation" u otros nombres, sonoban un poco mal.
+
+* 
