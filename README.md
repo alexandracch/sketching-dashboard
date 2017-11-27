@@ -2,7 +2,7 @@
 
 **Curso: Creando un sitio web interactivo con JavaScript**  
 
-**Unidad:  Unidad 3: Intro a User Experience Design**
+**Unidad: Intro a User Experience Design**
 
 ***
 
