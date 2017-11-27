@@ -36,6 +36,19 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 * genera
 
 ![navigation](assets/img/sign-in.jpg)
 
+#### Explicación de elementos
+
+* En la parte superior central se visualiza el nombre de la web, que en este caso sería "Dashboard" "Laboratoria". 
+
+* Las casillas de USER y KEY son redondeadas y de color gris porque ese es el estilo de Laboratoria. 
+
+* En la casilla KEY puse una opción de poder ver la clave cuando la estás escribiendo. Así evitamos escribirla mal y perder tiempo volviendo a teclear.
+
+* El botón de SIGN IN obviamente, tenía que ser más resaltante y con el color característico de Laboratoria.
+
+* En la parte final de nuestra ventana, hay un pequeño enlace: "crear una cuenta", para aquel usuario que aún no esté registrado.
+
+
 ### Dashboard
 
 ![navigation](assets/img/sketch.jpg)
