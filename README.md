@@ -35,3 +35,7 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 * genera
 ### Login
 
 ![navigation](assets/img/sign-in.jpg)
+
+### Dashboard
+
+![navigation](assets/img/sketch.jpg)
