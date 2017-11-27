@@ -30,13 +30,19 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 * genera
 
 * Mi squad y yo, fuimos a entrevistar a Ale, nuestra Training Manager, para poder saber qué tipo de gráficos le facilitaba leer la información y otras cosas más.
 
+* Luego, hice mi primer boceto, el cual rehice para que sea mi primer Sketching.
+
+* Le mostré a Ale mi Sketching del Dashboard, me dió un buen feedback y modifiqué algunas cosas.
+
+
+
 ## Sketching 
 
 ### Login
 
 ![navigation](assets/img/sign-in.jpg)
 
-#### Explicación de elementos
+#### Explicando elementos
 
 * En la parte superior central se visualiza el nombre de la web, que en este caso sería "Dashboard" "Laboratoria". 
 
@@ -61,4 +67,14 @@ Luego, viene la ubicación en la que ella se encuentra, según esa información 
 Después vienen las opciones "Dashboard", "Sede" y "Checkup". Como mencionaba antes, la opción "Dashboard" se carga por default cuando recién ingresamos y su contenido es definido por la ubicación del usuario. Ale, también mencionó que le gustaría poder acceder a la información de otras sedes, para eso existe la opción "Sede". 
 En el reto se menciona que colocaramos una opción de "comparación" en la que se pudiera filtrar y comparar información. Por eso aparece la opción "Checkup", con ese nombre porque "Comparation" u otros nombres, sonoban un poco mal.
 
-* 
+* En la parte superior hay una barra menú. La cual tiene una opción de Search para que el usuario busque información exacta. 
+Un ícono de campana para que avisar de alguna deserción o cambio brusco de porcentajes, etc. También una tuerca que es la configuración y Ayuda. Finalmente la opción de salida.
+
+* En la ventana principal tenemos el título "LIMA-II" con una flecha hacia abajo, la cual despliega opciones para filtrar los sprints dentro de Lima. 
+Al lado vemos "Septima Generación" igualmente con una flecha hacia abajo, esta sirve para filtrar qué generación queremos visualizar. Luego viene turno, esta opción solo estaría activa para la septima generación y filtraría "Turno AM" y "Turno PM".
+Debajo hay una barra que muestra la inforación principal como: cuántas alumnas se inscribieron, cuántas han desertado, cuántas alumnas alcanzaron la meta, cuántas alumnas no alcanzaron la meta y el resultado de la clase(total, tech y HSE). Decidí esto, basándome en que Ale mencionó que le es importante ver números y porcentajes.
+Después, una barra de navegación faceteada de opciones "Overview" para visualizar toda la data en gráficos y porcentajes de la clase completa y también de los profesores; "Students" para poder conocer a las alumnas dentro de clase; y "Teachers" para conocer a los profesores dentro de esa clase.
+
+* A continuación siguen los gráficos. Estos también estpan definidos por "Incripción", "Logro" y "Puntaje neto del promotor". (Estos los saqué del diseño ejemplo de laboratoria). Decidí usar los gráficos de "uve" porque Ale también quería ver eso. 
+
+
